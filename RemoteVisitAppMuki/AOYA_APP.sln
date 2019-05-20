@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOYA_APP", "Assembly-CSharp.csproj", "{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

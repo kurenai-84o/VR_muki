@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FC689DD7-5A4E-7EA7-DEA6-D97D1FDDB765}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchArrow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovieMove.cs" Line="45" Column="6" />
+      <File FileName="Assets/Scripts/PointClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchArrow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

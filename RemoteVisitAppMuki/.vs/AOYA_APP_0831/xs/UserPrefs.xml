@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5021832B-AE21-5DE0-E1CE-A51A21C13A6C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchGuide.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AppEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovieMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchArrow.cs" Line="255" Column="2" />
+      <File FileName="Assets/Scripts/TouchGuide.cs" Line="128" Column="22" />
+      <File FileName="Assets/Scripts/TouchQusetion.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/JyroCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReturnTitle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

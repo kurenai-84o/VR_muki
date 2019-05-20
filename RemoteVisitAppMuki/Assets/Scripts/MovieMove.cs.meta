@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 833c32316780640158033d9eb210459a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Map: {instanceID: 0}
+  - Vector1: {fileID: 1850891133993386, guid: bb3e813da26664902a6ce0796de75bec, type: 2}
+  - Vector2: {instanceID: 0}
+  - Vector3: {instanceID: 0}
+  - Vector4: {instanceID: 0}
+  - Vector5: {instanceID: 0}
+  - Vector6: {instanceID: 0}
+  - Vector7: {instanceID: 0}
+  - Vector8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
